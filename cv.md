@@ -1,4 +1,4 @@
-Vera Tiutiunnik
-Email: revkaa@gmail.com
+# Vera Tiutiunnik
+- Email: revkaa@gmail.com
 
-HTML, CSS, GIT
+> HTML, CSS, GIT
