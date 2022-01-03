@@ -5,21 +5,21 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My project</title>
-    <link href="css/style.css" rel="stylesheet" type="text/css">
-    <link href="css/menu.css" rel="stylesheet" type="text/css">
+    <link href="style.css" rel="stylesheet" type="text/css">
+    <link href="menu.css" rel="stylesheet" type="text/css">
 </head>
 <body>
-<!--вставка меню-->
-     <!--вставка меню-->
+<a name="top"></a>
+    <!--вставка меню-->
      <header>
         <nav class="menu">
         <ul>
-            <li><a href="">Skills</a></li>
-            <li><a href="">Education</a></li>
-            <li><a href="">Projects</a></li>
-            <li><a href="">Languages</a></li>
-            <li><a href="">Code examples</a></li>
-            <li><a href="">Contacts</a></li>
+            <li><a href="#link_skills">Skills</a></li>
+            <li><a href="#link_edu">Education</a></li>
+            <li><a href="#link_lang">Languages</a></li>
+            <li><a href="#link_project">Projects</a></li>
+            <li><a href="#link_example">Code examples</a></li>
+            <li><a href="#link_contacts">Contacts</a></li>
         </ul>
         </nav>
     </header>
@@ -27,55 +27,85 @@
     <main>
         <div class="about_myself">
             <div>
-                <img class="my_photo" src="images/my photo.jpg" alt="Photo logo">
+                <img class="my_photo" src="images/myphoto.jpg" alt="Photo logo">
             </div>
-            <div class="name"><h2>Vera Tiutiunnik</h2></div>
-            <div class="front_end">
-                <h1>Junior front-end developer</h1>
-            </div>
+            <div class="name"><h1>Vera Tiutiunnik</h1></div>
             <div>
                 <ul id="about_me"> 
-                    <li><h3>мое обучение только началось</h3></li>
-                    <li><h3>здесь я познаю самые основы web-разработки, для меня все знания абсолютно новые</h3></li>
-                    <li><h3>я надеюсь стать хорошим специалистом в области front-end разработки</h3></li>
+                    <li><h2>Hi! I am Vera and I have just started learning web development</h2></li>
+                    <li><h2>I like building websites and writing code. I really want to master new skills and become a good specialist</h2></li>
+                    <li><h2>I am glad when I succeed, because it is not easy to deal with everything at once. Hope I can do it!</h2></li>
                 </ul>
         </div>
             
         <div class="my_education">
             <div>
+                <a name="link_skills"></a><br><br>
                 <p class="heading">My Skills</p>
                 <ul class="HTML">
                     <li>HTML</li>
                     <li>CSS</li>
                     <li>JS</li>
                 </ul>
-                <!-- <table>
-                <tr>
-                    <th>HTML</th>
-                    <th>CSS</th>
-                    <th>JS</th>
-                </tr>
-                </table> -->
             </div>
             <div>
+                <a name="link_edu"></a>
+                <br><br>
                 <p class="heading">Education</p>
-                <p></p>
+                <ul class="edu">
+                    <li>2005 - 2010 Training at SevNTU as a system engineer. Diploma of higher education.</li>
+                    <li>Currently a student of the online school RSSchool in the JS / Front-End Stage 0 direction</li>
+                    <li>Also a student of the online school HTML academy in the basics of HTML, CSS and JS</li>
+                </ul>
             </div>
     
             <div>
+                <a name="link_lang"></a><br><br>
                 <p class="heading">Languages</p>
+                <ul class="lang">
+                    <li>Russian</li>
+                    <li>English</li>
+                    <li>Ukrainian</li>
+                </ul>
             </div>
     
             <div>
+                <a name="link_project"></a><br><br>
                 <p class="heading">My project</p>
+                <p class="edu">Dear friend! This page is my very first project. Therefore, the link below will take you here</p>
+                <p align="center"><a class="first" href="#top">My first project</a></p>
             </div>
     
             <div>
+                <a name="link_example"></a><br><br>
                 <p class="heading">Code examples</p>
+                <div class="code">
+                <xmp>
+                <div>
+                    <p class="heading">My Skills</p>
+                    <ul class="HTML">
+                        <li>HTML</li>
+                        <li>CSS</li>
+                        <li>JS</li>
+                    </ul>
+                </div>
+                <div>
+                    <p class="heading">Education</p>
+                    <ul class="edu">
+                        <li>2005 - 2010 Training at SevNTU as a system engineer. Diploma of higher education.</li>
+                        <li>Currently a student of the online school RSSchool in the JS / Front-End Stage 0 direction</li>
+                        <li>Also a student of the online school HTML academy in the basics of HTML, CSS and JS</li>
+                    </ul>
+                </div>
+                </xmp>
+                </div>
             </div>
     
             <div>
+                <a name="link_contacts"></a><br><br>
                 <p class="heading">Contacts</p>
+                <p class="contacts">tel: +8 (978) 827 60 10</p>
+                <p class="contacts">email: revkaa@gmail.com</p>
             </div>
             </div>
         </div>
@@ -86,7 +116,7 @@
         <div class="footer">
             <p>&copy; 2022 by Vera Tiutiunnik</p>
             <p>
-                <a href="https://rs.school/js/">
+                <a href="https://rs.school/">
                     <img src="https://rs.school/images/rs_school_js.svg" alt="rs_school" width="120" height="60">
                 </a>
             </p>

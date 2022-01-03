@@ -1,10 +1,11 @@
 header {
     margin: 0px auto;
-    width: 99%;
+    width: 100%;
     height: 65px;
     position: fixed;
-    background-color: rgba(255, 248, 220, 0.637);
-    box-shadow: 0 4px 6px rgba(0,0,0,.2);  
+    background: linear-gradient( to right bottom, rgb(253, 255, 255), rgb(3, 89, 104));
+    /* background-color: rgb(3, 89, 104); */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.247);  
     z-index: 999999;
   }
 
@@ -21,8 +22,8 @@ header {
   .menu a {
     text-decoration: none;
     text-transform: uppercase;
-    font-family: 'Montserrat', sans-serif;
-    color: rgb(134, 134, 134);
+    font-family: sans-serif;
+    color: rgb(251, 253, 255);
     display: block;
     position: relative;
     cursor: pointer;
@@ -35,14 +36,14 @@ header {
     left: 0;
     width: 0;
     height: 2px;
-    background-color: rgb(197, 26, 26);
+    background-color: rgb(255, 255, 255);
     content: "";
     transition: width 0.5s linear;
 
   }
 
   .menu a:hover {
-    color: rgb(41, 29, 29);
+    color: rgb(255, 255, 255);
     font-weight: 500;
   }
 
@@ -57,6 +58,14 @@ header {
     height: 25px;
     margin: 10px 20px;
   }
-   .menu {
-       
-   }
+
+ @media screen and (max-width: 660px){
+     header {text-align: left;}
+     .menu {
+         float: none;
+         display: inline-block;
+         margin: 0 0 15px 0;
+     }
+     ul {float: none;}
+     nav li:first-of-type{margin-left: 0;}
+ }
