@@ -1,5 +1,70 @@
-h1 {
-    text-align: center;
+.about_myself {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    margin-bottom: 50px;
+}
+
+.my_photo {
+    display: block;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin-top: 150px;
+}
+
+.name {
     color: #a52a2a;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.front_end{
+    color: rgb(24, 16, 16);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+}
+
+#about_me{
+    list-style-type: circle;
+}
+
+.footer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    position: relative;
+    justify-content: space-around;
     font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    font-kerning: inherit;
+    color: rgb(24, 16, 16);
+}
+
+.github{
+    text-decoration: none;
+    color: rgb(24, 16, 16);
+    font-size: 24px;
+}
+
+.heading {
+    font-size: 24px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(24, 16, 16);
+}
+
+.my_education {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    margin-bottom: 50px;
+}
+
+.HTML li {
+    display: inline-block;
 }
