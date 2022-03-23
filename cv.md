@@ -20,9 +20,9 @@
 
 ## Languages
 
-- Russian - Native speaker
-- Ukrainian - Native speaker
-- English - A2 (Pre-Intermediate)
+* Russian - Native speaker
+* Ukrainian - Native speaker
+* English - A2 (Pre-Intermediate)
 
 ## Projects
 
@@ -58,9 +58,11 @@
                   }```
 
 ## Contacts
-=====
 
 > Email: revkaa@gmail.com
+
 > Git-hub: https://github.com/Veruwka/
+
 > Discord: VeraTiutiunnik#4076
+
 > WhatsApp, Telegram, Viber: +8 (978) 827 60 10
