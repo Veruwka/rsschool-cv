@@ -23,3 +23,10 @@
 + Russian - Native speaker
 + Ukrainian - Native speaker
 + English - A2 (Pre-Intermediate)
+
+## Projects
+
+*Photographer's portfolio https://rolling-scopes-school.github.io/veruwka-JSFEPRESCHOOL/portfolio/
+*Game Tic-Tac-Toe https://rolling-scopes-school.github.io/veruwka-JSFEPRESCHOOL/tic-tac-toe/
+*Audioplayer https://rolling-scopes-school.github.io/veruwka-JSFEPRESCHOOL/audioplayer/
+*Random-jokes https://rolling-scopes-school.github.io/veruwka-JSFEPRESCHOOL/random-jokes/
