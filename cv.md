@@ -20,16 +20,16 @@
 
 ## Languages
 
-+ Russian - Native speaker
-+ Ukrainian - Native speaker
-+ English - A2 (Pre-Intermediate)
+- Russian - Native speaker
+- Ukrainian - Native speaker
+- English - A2 (Pre-Intermediate)
 
 ## Projects
 
-*Photographer's portfolio https://rolling-scopes-school.github.io/veruwka-JSFEPRESCHOOL/portfolio/
-*Game Tic-Tac-Toe https://rolling-scopes-school.github.io/veruwka-JSFEPRESCHOOL/tic-tac-toe/
-*Audioplayer https://rolling-scopes-school.github.io/veruwka-JSFEPRESCHOOL/audioplayer/
-*Random-jokes https://rolling-scopes-school.github.io/veruwka-JSFEPRESCHOOL/random-jokes/
+1. Photographer's portfolio https://rolling-scopes-school.github.io/veruwka-JSFEPRESCHOOL/portfolio/
+2. Game Tic-Tac-Toe https://rolling-scopes-school.github.io/veruwka-JSFEPRESCHOOL/tic-tac-toe/
+3. Audioplayer https://rolling-scopes-school.github.io/veruwka-JSFEPRESCHOOL/audioplayer/
+4. Random-jokes https://rolling-scopes-school.github.io/veruwka-JSFEPRESCHOOL/random-jokes/
 
 ## Code Examples
 
@@ -58,6 +58,7 @@
                   }```
 
 ## Contacts
+=====
 
 > Email: revkaa@gmail.com
 > Git-hub: https://github.com/Veruwka/
