@@ -26,10 +26,10 @@
 
 ## Projects
 
-1. Photographer's portfolio https://rolling-scopes-school.github.io/veruwka-JSFEPRESCHOOL/portfolio/
-2. Game Tic-Tac-Toe https://rolling-scopes-school.github.io/veruwka-JSFEPRESCHOOL/tic-tac-toe/
-3. Audioplayer https://rolling-scopes-school.github.io/veruwka-JSFEPRESCHOOL/audioplayer/
-4. Random-jokes https://rolling-scopes-school.github.io/veruwka-JSFEPRESCHOOL/random-jokes/
+1. Photographer's portfolio https://rolling-scopes-school.github.io/veruwka-JSFEPRESCHOOL/portfolio
+2. Game Tic-Tac-Toe https://rolling-scopes-school.github.io/veruwka-JSFEPRESCHOOL/tic-tac-toe
+3. Audioplayer https://rolling-scopes-school.github.io/veruwka-JSFEPRESCHOOL/audioplayer
+4. Random-jokes https://rolling-scopes-school.github.io/veruwka-JSFEPRESCHOOL/random-jokes
 
 ## Code Examples
 
@@ -41,6 +41,7 @@
                       addText(data);
                   }
                   getQuotes();
+                  
                   function addText(array) {
                       let quote = document.querySelector('.quote');
                       let author = document.querySelector('.author');
@@ -50,6 +51,7 @@
                       picture.classList.toggle('picture');    
                       picture.classList.toggle('picture-before');
                   }
+                  
                   button.addEventListener('click', getQuotes);
                   button.onclick = function f(){
                       picture.classList.remove('picture');
