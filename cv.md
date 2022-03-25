@@ -1,4 +1,4 @@
-# Vera Tiutiunnik     ![my_photo](https://github.com/Veruwka/rsschool-cv/blob/gh-pages/assets/images/myphoto.jpg "Hi! It's me")
+# Vera Tiutiunnik     ![my_photo](https://avatars.githubusercontent.com/u/96355243?v=4 "Hi! It's me")
 
 > Hi! I am Vera and I have just started learning web development
 
