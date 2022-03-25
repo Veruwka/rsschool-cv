@@ -41,7 +41,6 @@
                       addText(data);
                   }
                   getQuotes();
-
                   function addText(array) {
                       let quote = document.querySelector('.quote');
                       let author = document.querySelector('.author');
@@ -51,7 +50,6 @@
                       picture.classList.toggle('picture');    
                       picture.classList.toggle('picture-before');
                   }
-
                   button.addEventListener('click', getQuotes);
                   button.onclick = function f(){
                       picture.classList.remove('picture');
