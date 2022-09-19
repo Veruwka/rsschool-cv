@@ -30,7 +30,7 @@
 2. Game Tic-Tac-Toe https://rolling-scopes-school.github.io/veruwka-JSFEPRESCHOOL/tic-tac-toe
 3. Audioplayer https://rolling-scopes-school.github.io/veruwka-JSFEPRESCHOOL/audioplayer
 4. Random-jokes https://rolling-scopes-school.github.io/veruwka-JSFEPRESCHOOL/random-jokes
-5. CSS Mem-slider https://veruwka.github.io/cssMemSlider/cssMemSlider/index.html
+4. CSS Mem-Slider https://veruwka.github.io/cssMemSlider/cssMemSlider/index.html
 6. Shelter https://rolling-scopes-school.github.io/veruwka-JSFE2022Q1/shelter/pages/main/
 
 ## Code Examples
@@ -53,4 +53,4 @@
 
 > Discord: VeraTiutiunnik#4076
 
-> WhatsApp, Telegram, Viber: +8 (978) 827 60 10
+> WhatsApp, Telegram: +8 (978) 827 60 10
