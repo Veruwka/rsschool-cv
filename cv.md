@@ -26,16 +26,17 @@
 
 ## Projects
 
-1. Photographer's portfolio https://rolling-scopes-school.github.io/veruwka-JSFEPRESCHOOL/portfolio
-2. Game Tic-Tac-Toe https://rolling-scopes-school.github.io/veruwka-JSFEPRESCHOOL/tic-tac-toe
-3. Audioplayer https://rolling-scopes-school.github.io/veruwka-JSFEPRESCHOOL/audioplayer
-4. Random-jokes https://rolling-scopes-school.github.io/veruwka-JSFEPRESCHOOL/random-jokes
-4. CSS Mem-Slider https://veruwka.github.io/cssMemSlider/cssMemSlider/index.html
-6. Shelter https://rolling-scopes-school.github.io/veruwka-JSFE2022Q1/shelter/pages/main/
+1. Photographer's portfolio [Link](https://rolling-scopes-school.github.io/veruwka-JSFEPRESCHOOL/portfolio)
+2. Game Tic-Tac-Toe [Link](https://rolling-scopes-school.github.io/veruwka-JSFEPRESCHOOL/tic-tac-toe)
+3. Audioplayer [Link](https://rolling-scopes-school.github.io/veruwka-JSFEPRESCHOOL/audioplayer)
+4. Random-jokes [Link](https://rolling-scopes-school.github.io/veruwka-JSFEPRESCHOOL/random-jokes)
+4. CSS Mem-Slider [Link])https://veruwka.github.io/cssMemSlider/cssMemSlider/index.html)
+6. Shelter [Link](https://rolling-scopes-school.github.io/veruwka-JSFE2022Q1/shelter/pages/main/)
 
 ## Code Examples
 
-                ```function nthFibo(n) {
+                ```
+                function nthFibo(n) {
                     let i = 0;
                     let res = [0, 1];
                     while(i < n) {
@@ -43,7 +44,8 @@
                         ++i;
                     }
                     return res[n-1];
-                }```
+                }
+                ```
 
 ## Contacts
 
