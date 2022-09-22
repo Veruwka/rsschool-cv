@@ -79,6 +79,33 @@ section {
     padding: 0;
 }
 
+code {
+    font-size: 22px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: crimson;
+}
+
 .footer {
-    background-color: coral;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.copy {
+    font-size: 24px;
+    font-weight: bold;
+    font-family: monospace;
+}
+
+.img-rsschool:hover {
+    filter: drop-shadow(0 0 0.1em crimson);
 }
