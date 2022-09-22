@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    background-image: url(assets/pace-oregon-state-html-css-coding-web-design-660x330.jpg);
+    background-size: cover;
+    width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.image {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+.title-h1 {
+    color: white;
+    font-size: 3em;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.title-h2 {
+    color: white;
+    font-size: 2em;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.contact {
+    width: 800px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.h3-contact {
+    color: white;
+    font-size: 1.5em;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.main {
+    background-color: brown;
+}
+
+.footer {
+    background-color: coral;
+}
