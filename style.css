@@ -17,6 +17,7 @@ body {
     gap: 20px;
     background-image: url(assets/pace-oregon-state-html-css-coding-web-design-660x330.jpg);
     background-size: cover;
+    background-color: rgb(253, 247, 239);
 }
 
 .image {
@@ -60,6 +61,7 @@ body {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    background-color: rgb(253, 247, 239);
 }
 
 p {
@@ -81,7 +83,7 @@ section {
 
 .section-line {
     width: 5px;
-    background-color: darkblue;
+    background-color: rgb(70, 3, 3);
     padding: 0;
 }
 
@@ -103,7 +105,8 @@ a:hover {
     justify-content: space-between;
     padding: 10px;
     align-items: center;
-    margin-top: 20px;
+    padding-top: 20px;
+    background-color: rgb(253, 247, 239);
 }
 
 .copy {
